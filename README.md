@@ -35,5 +35,5 @@ This project demonstrates **file handling, user input handling, date & time form
 
 ---
 
-## 📋 Example Receipt (saved in file)
+
 
